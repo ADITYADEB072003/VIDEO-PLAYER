@@ -15,7 +15,7 @@ img{
 
   width:290;
     height:176;
-   padding:1px;
+   padding:20px;
    background-color: black;
   float:left;
   padding: 20px;
@@ -29,11 +29,13 @@ img{
 }
 p{ background-color: black;
     text-align: center;
-    text-transform: uppercase;
+   text-transform: capitalize;
      font-weight:bolder;
 border:2px solid black;
     color:white;
- 
+padding:20px;
+font-size:10pt;
+white-space:1px;
          
 }
 #main{
@@ -77,5 +79,4 @@ height:10%;
 
 
     
-
 
