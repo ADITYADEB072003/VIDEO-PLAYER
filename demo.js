@@ -8,8 +8,6 @@ var ved= document.getElementById("para");
 ved.innerHTML="chainsmoker"
 var ved2= document.getElementById("para2");
 ved2.innerHTML="commando3"
-var ved2= document.getElementById("para3");
-ved2.innerHTML="photos"
 var f=document.getElementById('vi')
 f.src="Photo Reprise Version (Hindi_Punjabi) x Zara Tasveer Se Tu _ Luka Chuppi _ Acoustic Singh - YouTube (720p).mp4"
 
@@ -33,8 +31,28 @@ var u=document.getElementById('vi10')
 u.src = "Bandeya Rey Bandeya Lyrical _ SIMMBA _ Ranveer Singh, Sara Ali Khan _ Arijit Singh _ Asees Kaur - YouTube (720p).mp4"
 var u=document.getElementById('vi11')
 u.src = "LYRICAL_ Saugandh Mujhe Iss Mitti Ki Song _ PM Narendra Modi _ Vivek Oberoi_Sukhwinder Singh,Shashi - YouTube (720p).mp4"
-var u=document.getElementById('vi12')
-u.src = "s.mp4"
+var o=document.getElementById('vi12')
+o.src = "s.mp4"
+var u=document.getElementById('vi13')
+u.src = "DOORIYAN.mp4"
+var u=document.getElementById('vi14')
+u.src = "1.mp4"
+var u=document.getElementById('vi15')
+u.src = "2.mp4"
+var u=document.getElementById('vi16')
+u.src = "3.mp4"
+var u=document.getElementById('vi18')
+u.src = "4.mp4"
+var u=document.getElementById('vi19')
+u.src = "5.mp4"
+var u=document.getElementById('vi20')
+u.src = "6.mp4"
+var u=document.getElementById('vi21')
+u.src = "8.mp4"
+var u=document.getElementById('vi22')
+u.src = "7.mp4"
+
+
 var e = document.getElementsByTagName('a');
 e[0].href="Photo Reprise Version (Hindi_Punjabi) x Zara Tasveer Se Tu _ Luka Chuppi _ Acoustic Singh - YouTube (720p).mp4";
 e[2].href="Dhvani Bhanushali Live _ IIFA Rocks Performance 2019 - YouTube (720p).mp4";
@@ -48,5 +66,17 @@ e[7].href="Dilbara - Full Song _ Dhoom _ Abhishek Bachchan _ Uday Chopra _ Esha 
 e[9].href="Bandeya Rey Bandeya Lyrical _ SIMMBA _ Ranveer Singh, Sara Ali Khan _ Arijit Singh _ Asees Kaur - YouTube (720p).mp4"
 e[10].href="LYRICAL_ Saugandh Mujhe Iss Mitti Ki Song _ PM Narendra Modi _ Vivek Oberoi_Sukhwinder Singh,Shashi - YouTube (720p).mp4"
 e[11].href="s.mp4"
+e[12].href="DOORIYAN.mp4"
+var w = document.getElementsByTagName('a');
+w[13].href="1.mp4"
+w[14].href="2.mp4"
+w[15].href="3.mp4"
+w[16].href="4.mp4"
+w[17].href="5.mp4"
+w[18].href="6.mp4"
+w[19].href="8.mp4"
+w[20].href="7.mp4"
+
+
 
 }
