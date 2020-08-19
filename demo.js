@@ -51,8 +51,30 @@ var u=document.getElementById('vi21')
 u.src = "8.mp4"
 var u=document.getElementById('vi22')
 u.src = "7.mp4"
-
-
+var u=document.getElementById('vi24')
+u.src = "9.mp4"
+var u=document.getElementById('vi25')
+u.src = "10.mp4"
+var u=document.getElementById('vi26')
+u.src = "11.mp4"
+var u=document.getElementById('vi27')
+u.src = "12.mp4"
+var u=document.getElementById('vi28')
+u.src = "13.mp4"
+var u=document.getElementById('vi29')
+u.src = "14.mp4"
+var u=document.getElementById('vi30')
+u.src = "15.mp4"
+var u=document.getElementById('vi31')
+u.src = "16.mp4"
+var u=document.getElementById('vi32')
+u.src = "17.mp4"
+var u=document.getElementById('vi33')
+u.src = "18.mp4"
+var u=document.getElementById('vi34')
+u.src = "19.mp4"
+var u=document.getElementById('vi35')
+u.src = "20.mp4"
 var e = document.getElementsByTagName('a');
 e[0].href="Photo Reprise Version (Hindi_Punjabi) x Zara Tasveer Se Tu _ Luka Chuppi _ Acoustic Singh - YouTube (720p).mp4";
 e[2].href="Dhvani Bhanushali Live _ IIFA Rocks Performance 2019 - YouTube (720p).mp4";
@@ -76,7 +98,16 @@ w[17].href="5.mp4"
 w[18].href="6.mp4"
 w[19].href="8.mp4"
 w[20].href="7.mp4"
-
-
-
+w[22].href="9.mp4"//element skiped
+w[23].href="10.mp4"//element skiped
+w[24].href="11.mp4"//element skiped
+w[25].href="12.mp4"//element skiped
+w[26].href="13.mp4"
+w[27].href="14.mp4"
+w[28].href="15.mp4"
+w[29].href="16.mp4"
+w[30].href="17.mp4"
+w[31].href="18.mp4"
+w[32].href="19.mp4"
+w[33].href="20.mp4"
 }
